@@ -85,3 +85,7 @@ http://localhost:8080
 - Healthcare Finance Domain
 - Hadoop HDFS Storage
 - MySQL Database Design
+## Dataset
+100,000 synthetic hospital billing and insurance records
+Run locally: pip install faker pandas && python generate_data.py
+
