@@ -1,0 +1,6 @@
+*.csv
+*.json
+*.parquet
+data/
+logs/
+.env
